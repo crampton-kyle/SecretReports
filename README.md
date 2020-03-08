@@ -14,6 +14,8 @@ We use the npm package manager to install vue and its dependencies. Since npm co
     2. `brew doctor`
     3. `brew install node`
   * If not, download from the web https://www.npmjs.com/get-npm
-3. Install Vue with the following comand (using npm): `npm install -g @vue/cli`
+  
+## Install Vue
+Install Vue with the following comand (using npm): `npm install -g @vue/cli`
 
 Congrats! You have installed Vue!
